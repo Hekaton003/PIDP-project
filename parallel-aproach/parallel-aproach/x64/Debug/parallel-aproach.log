@@ -1,0 +1,4 @@
+﻿  parallel-aproach.cpp
+C:\Users\Katarina\Documents\Pidp\parallel-aproach\parallel-aproach\parallel-aproach.cpp(12,25): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+     Creating library C:\Users\Katarina\Documents\Pidp\parallel-aproach\x64\Debug\parallel-aproach.lib and object C:\Users\Katarina\Documents\Pidp\parallel-aproach\x64\Debug\parallel-aproach.exp
+  parallel-aproach.vcxproj -> C:\Users\Katarina\Documents\Pidp\parallel-aproach\x64\Debug\parallel-aproach.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Katarina\\Documents\\Pidp\\parallel-aproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45270A4C-6EEF-41FB-8DA5-BF124B3652CF}|parallel-aproach\\parallel-aproach.vcxproj|C:\\Users\\Katarina\\Documents\\Pidp\\parallel-aproach\\parallel-aproach\\parallel-aproach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45270A4C-6EEF-41FB-8DA5-BF124B3652CF}|parallel-aproach\\parallel-aproach.vcxproj|solutionrelative:parallel-aproach\\parallel-aproach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "parallel-aproach.cpp",
+              "DocumentMoniker": "C:\\Users\\Katarina\\Documents\\Pidp\\parallel-aproach\\parallel-aproach\\parallel-aproach.cpp",
+              "RelativeDocumentMoniker": "parallel-aproach\\parallel-aproach.cpp",
+              "ToolTip": "C:\\Users\\Katarina\\Documents\\Pidp\\parallel-aproach\\parallel-aproach\\parallel-aproach.cpp",
+              "RelativeToolTip": "parallel-aproach\\parallel-aproach.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T14:53:22.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
