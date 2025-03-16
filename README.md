@@ -17,7 +17,7 @@ The primary storage system for distances between 300 U.S. cities is an **SQLite 
 ## Project Structure
 ```
 ├── MainProject/                      
-│   ├── Results.xlsx                  # An excel file containing the time performances between the Serial vs the Parrallel imp.
+│   ├── Results.xlsx                  # An excel file containing the time performances between the Serial vs the Parallel imp.
 │   ├── main-program.py               # Sequential implementation of the FW algorithm
 │   ├── parallel_aproach.py           # A python file for calling the parallel implementation of the FW algorithm
 │   ├── performance_comparison.png    # Visual description of Results.xlsx
@@ -42,6 +42,6 @@ python main-program.py
 3. After the file is successfully build or rebuild, now you need to open the **parallel_aproach.py** file inside the **MainProject** directory.
 4. Inside the **parallel_approach.py** file, on line 63, replace the URL path of parallel_approach.dll with the local file path on your machine.
 5. Then you can run this command:
-   ```sh
-      python parallel_approach.py
-   ```
+```sh
+   python parallel_approach.py
+```
