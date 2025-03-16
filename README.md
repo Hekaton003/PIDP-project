@@ -3,8 +3,8 @@
 ## Brief description
 The **PIDP-project** contains the source code for calculating the shortest distances in a transportation network connecting 300 U.S. cities.
 It includes two distinct implementations of the Floyd-Warshall (FW) algorithm:
-- A sequential implementation (located in the **MainProject** directory)
-- A parallel implementation using OpenMP (located in the **parallel-aproach** directory)
+- The serial implementation (located in the **MainProject** directory)
+- The parallel implementation using OpenMP (located in the **parallel-aproach** directory)
 
 For this project, various tools and libraries were used to enable efficient parallel processing and data handling:
 - **OpenMP** is utilized for key computational tasks, leveraging multiple CPU threads to maximize performance.
@@ -12,11 +12,10 @@ For this project, various tools and libraries were used to enable efficient para
 - The **ctypes** module in Python allows seamless interaction with the DLL, enabling efficient integration between the two languages.
 
 The primary storage system for distances between 300 U.S. cities is an **SQLite database**.
--The database schema is defined using SQL DDL statements, creating tables such as **cities** and **distances**, which store pairwise city distances and city metadata, respectively.
-
+- The database schema is defined using SQL DDL statements, creating tables such as **cities** and **distances**, which store pairwise city distances and city metadata, respectively.
 
 ## Project Structure
-
+```
 ├── MainProject/                      
 │   ├── Results.xlsx                  # An excel file containing the time performances between the Serial vs the Parrallel imp.
 │   ├── main-program.py               # Sequential implementation of the FW algorithm
@@ -29,6 +28,7 @@ The primary storage system for distances between 300 U.S. cities is an **SQLite 
 |   ├── cities.sql                    # Contains the city name and the name of the state where the city is located
 |   ├── distances.sql                 # Contains the pairwise city distances
 ├── README.md                         # Documentation
+```
 
 ## Running the serial implementation of the FW algorithm
 ```sh
