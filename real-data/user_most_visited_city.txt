@@ -1,0 +1,295 @@
+0	Austin
+1	Paris
+2	Los Angeles
+3	Lihue
+4	San Francisco
+5	City of New York
+6	Austin
+7	Austin
+8	San Francisco
+9	Olathe
+10	Olathe
+11	Coral Springs
+12	Curitiba
+13	Vancouver
+14	Boston
+15	City of New York
+16	Denver
+17	Memphis
+18	San Marcos
+19	Austin
+20	Mesquite
+21	Anaheim
+22	City of New York
+23	Town of Vestal
+24	Santa Clara
+25	San Francisco
+26	Santa Cruz
+27	Austin
+28	Leawood
+29	Austin
+30	Austin
+31	Austin
+32	Austin
+33	City of New York
+34	San Mateo
+35	Plano
+36	City of New York
+37	Indianapolis
+38	San Mateo
+39	Incline Village-Crystal Bay
+40	Clackamas County
+41	Austin
+42	Washington
+43	Los Angeles
+44	Cedar Park
+45	Asheville
+46	Palo Alto
+47	Mexico city
+48	Atlanta
+49	Leawood
+50	Chicago
+51	Falcon Heights
+52	Austin
+53	Daly City
+54	Austin
+55	Boulder
+56	Portland
+57	West Vancouver
+58	Palo Alto
+59	Chapel Hill
+60	Oklahoma City
+61	Kent
+62	San Francisco
+63	Las Vegas Valley
+64	Leavenworth
+65	Kansas City
+66	Austin
+67	Bad Hindelang
+68	Pelham
+69	Orange County
+70	Denver
+71	Las Vegas Valley
+72	London
+73	Palo Alto
+74	Austin
+75	Prairie Village
+76	San Francisco
+77	City of New York
+78	Long Beach
+79	Austin
+80	Austin
+81	Ashland
+82	Redwood City
+83	City of Cape Town
+84	Newport Beach
+85	Leeds and the Thousand Islands
+86	Palo Alto
+87	Campbell
+88	Austin
+89	Dallas
+90	Unknown
+91	Marfa
+92	Austin
+93	San Francisco
+94	Southlake
+95	Boulder
+96	San Mateo County
+97	Austin
+98	Fort Worth
+99	Bath
+100	London
+101	San Francisco
+102	Austin
+103	Strasbourg
+104	San Francisco
+105	Los Angeles
+106	Santa Clara County
+107	Kansas City
+108	Palo Alto
+109	Austin
+110	Overland Park
+111	San Francisco
+112	Austin
+113	Austin
+114	Silverdale
+115	Austin
+116	Austin
+117	Austin
+118	Berkeley
+119	Oakland Park
+120	Paris
+121	Burnet County
+122	Dallas
+123	East Palo Alto
+124	San Francisco
+125	Dallas
+126	Miami Gardens
+127	Kansas City
+128	City of New York
+129	San Francisco
+130	San Francisco
+131	Austin
+132	San Francisco
+133	San Francisco
+134	North Little Rock
+135	Kansas City
+136	Grapevine
+137	Durham
+138	Manor
+139	Seattle
+140	Colorado Springs
+141	Austin
+142	Tampa
+143	Santa Clara
+146	Indianapolis
+147	Indianapolis
+148	Austin
+149	Saint Louis County
+150	Saint Charles
+151	Portland
+152	Trelleborg
+153	Austin
+154	Austin
+155	San Francisco
+156	Van Horn
+157	Palo Alto
+158	Sunnyvale
+159	Chicago
+160	San Mateo County
+161	San Francisco
+162	Galveston
+163	Austin
+164	Nürnberg
+165	Austin
+166	Draper
+167	Essaouira 
+168	Brighton
+169	Mission Viejo
+170	San Clemente
+171	Austin
+172	Mauregard
+173	Austin
+174	Paris
+175	Stockholm
+176	San Francisco
+177	San Francisco
+178	Jersey Village
+180	Austin
+181	San Mateo County
+182	Austin
+183	Anchorage
+184	Albuquerque
+185	Layton
+189	City of New York
+190	City of New York
+191	San Francisco
+192	Overland Park
+193	Kansas City
+194	Austin
+195	Louisville
+196	Schwechat
+197	Banning
+198	Rotterdam
+199	Medebach
+200	San Francisco
+201	San Francisco
+202	Austin
+203	Austin
+204	Austin
+205	Barcelona
+206	Southlake
+207	Kalamazoo County
+208	Austin
+209	Austin
+210	Austin
+211	Chicago
+212	Austin
+213	Denver
+214	Austin
+215	München
+216	Las Vegas Valley
+217	San Francisco
+218	Oklahoma City
+219	Moore
+220	Austin
+221	East Palo Alto
+222	Skokie
+223	City of New York
+224	Houston
+225	Austin
+226	Dallas
+227	Austin
+228	Unknown
+229	Seattle
+230	Seattle
+231	San Francisco
+232	Wichita
+233	Austin
+234	San Francisco
+235	San Francisco
+236	Plano
+237	Des Moines
+238	Chicago
+239	Boulder
+240	San Francisco
+241	Spokane
+242	Dallas
+243	Ridgewood
+244	Riverside County
+245	Saint Paul
+246	Sunnyvale
+247	Burnaby
+248	Mission
+249	Palo Alto
+250	Cleveland
+251	Redwood City
+252	San Mateo County
+253	Austin
+254	San Francisco
+255	San Jose
+256	Kansas City
+257	Overland Park
+258	Baltimore
+259	Lawrence
+260	Austin
+261	Austin
+262	Lawrence
+263	Los Angeles
+264	San Francisco
+265	Austin
+266	Austin
+267	Austin
+268	Providence
+269	Austin
+270	Prairie Village
+271	Austin
+272	Mountlake Terrace
+273	Kansas City
+274	Oklahoma City
+275	Burbank
+276	Milwaukee
+277	Waitemata
+278	Travis County
+279	Austin
+280	San Francisco
+281	Saskatoon
+282	Dallas
+283	Austin
+284	San Francisco
+285	City of Saratoga Springs
+286	Overland Park
+287	Gaithersburg
+288	New Braunfels
+289	Lawrence
+290	San Francisco
+291	Tampa
+292	Henderson
+293	San Francisco
+294	Las Vegas Valley
+295	San Francisco
+296	Overland Park
+297	Portland
+298	City of New York
+299	Phoenix
+300	Overland Park
