@@ -19,13 +19,19 @@ The primary storage system forthis project is an **SQLite database**.
 
 ## Project Structure
 ```                   
-├── Results.xlsx                  # An excel file containing the time performances between the Serial vs the Parallel imp of FW.
-├── main-program.py               # Sequential implementation of the FW algorithm for calculating the road distances between the cities.
-├── parallel_aproach.py           # A python file for calling the parallel implementation of the FW algorithm for calculating the road distances between the cities.
-├── main-program-s.py             # Sequential implementation of the FW algorithm for calculating the social connections between the cities.
-├── parallel_aproach_s.py         # A python file for calling the parallel implementation of the FW algorithm for calculating the social connections between the cities.
-├── main-program_f.py             # Sequential implementation of the FW algorithm for calculating the social connections between random people.
-├── parallel_aproach_f.py         # A python file for calling the parallel implementation of the FW algorithm for calculating the social connections between random people.
+├── Results.xlsx                          # An excel file containing time performances between the Serial vs the Parallel imp of the Floyd-Warshall algorithm.
+├── city-distances-results/               # A subdirectory that contains the initial distance matrices for 40 and 80 cities, the final distance matrices after the Floyd-Warshall implementation,
+                                          and text files containing the shortest paths between each pair of cities.
+├── city-social-connection-results/       # A subdirectory that contains the initial social connection matrices for 40 and 80 cities, the final social connection matrices  after the Floyd-Warshall implementation.
+├── friendship-connection-results/        # A subdirectory that contains the initial social connection matrices for 40 and 80 random people, the final social connection matrices after the Floyd-Warshall implementation.
+├── real-data/                            # A subdirectory that contains a text file with 300 different users from the Stanford Gowalla social network dataset,
+                                          along with their friendship connections and the resulting social distance matrix between cities based on where the users live.
+├── main-program-cityDistance.py          # Sequential implementation of the FW algorithm for calculating the road distances between the cities.
+├── parallel-aproach-cityDistance.py      # A python file for calling the parallel implementation of the FW algorithm for calculating the road distances between the cities.
+├── main-program-citySocialConnections.py # Sequential implementation of the FW algorithm for calculating the social connections between the cities.
+├── parallel-aproach-citySocialConnections.py   # A python file for calling the parallel implementation of the FW algorithm for calculating the social connections between the cities.
+├── main-program-friendships.py           # Sequential implementation of the FW algorithm for calculating the social connections between random people.
+├── parallel-aproach-friendships.py       # A python file for calling the parallel implementation of the FW algorithm for calculating the social connections between random people.
 ├── parallel-aproach/
 │   ├── parallel-aproach/
 │       ├── parallel-aproach.cpp      # A cpp file containing the parallel implementation of the FW algorithm   
