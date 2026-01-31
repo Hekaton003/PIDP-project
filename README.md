@@ -14,7 +14,9 @@ For this project, various tools and libraries were used to enable efficient para
 The primary storage system forthis project is an **SQLite database**.
 - The database schema, defined using SQL DDL statements, includes tables such as **cities** and **distances** for storing city metadata and pairwise city distances, respectively, as well as **Friend** and **Friendship** tables for managing the social network data.
 
-![The Entity Relation Diagram of the us-cities.db](https://drive.google.com/uc?export=view&id=1qNQRewCcX8y-An2tzI2du7MzPpkydWds)
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1qNQRewCcX8y-An2tzI2du7MzPpkydWds" alt="The Entity Relation Diagram of the us-cities.db" />
+</p>
 <p align="center"><i>Figure 1: Entity-Relationship Diagram of the <code>us-cities.db</code> database.</i></p>
 
 ## Project Structure
